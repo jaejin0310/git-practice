@@ -1,3 +1,4 @@
-def __main__():
-    print("Hello, World!")
-    return 0
+course = "Open Source"
+lab = 7
+
+print(f"This is Lab {lab} of the {course} course.")
